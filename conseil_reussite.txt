@@ -14,3 +14,9 @@ La discipline est essentielle pour réussir ses études.
 Un étudiant doit assister régulièrement aux cours,
 respecter les horaires et suivre attentivement
 les explications des enseignants.
+
+2. Participer activement en classe
+
+Participer aux cours permet de mieux comprendre les leçons.
+Poser des questions, répondre aux exercices et prendre
+des notes aide à renforcer les connaissances.
